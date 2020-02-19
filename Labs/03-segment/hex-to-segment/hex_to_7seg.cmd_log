@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "/home/lab661/Documents/xdocka13/Digital-electronics-1/Labs/03-segment/hex-to-segment/hex_to_7seg.xst" -ofn "/home/lab661/Documents/xdocka13/Digital-electronics-1/Labs/03-segment/hex-to-segment/hex_to_7seg.syr" 
+xst -intstyle ise -ifn "/home/lab661/Documents/xdocka13/Digital-electronics-1/Labs/03-segment/hex-to-segment/hex_to_7seg.xst" -ofn "/home/lab661/Documents/xdocka13/Digital-electronics-1/Labs/03-segment/hex-to-segment/hex_to_7seg.syr" 
+ngdbuild -intstyle ise -dd _ngo -uc decoder.ucf -uc hextosegment.ucf -p xc2c256-TQ144-6 hex_to_7seg.ngc hex_to_7seg.ngd  
