@@ -1,6 +1,6 @@
-#Lab 1 - Introduction
+# Lab 1 - Introduction
 
-##Introduction to CircuitVerse
+## Introduction to CircuitVerse
 
 ![and_gates](../../Images/simulator_basic_gates.png)
 
@@ -30,7 +30,7 @@
 | 1 | 0 | 1 | 0 |
 | 1 | 1 | 0 | 1 |
 
-##De'Morgans laws
+## De'Morgans laws
 
 | **A** | **B** |**C** | **f** | **fAND** | **fOR** |
 | :-: | :-: | :-: | :-: | :-: | :-: |
