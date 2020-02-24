@@ -13,7 +13,7 @@
 
 ![and_gates](../../Images/4-1.png)
 
-![and_gates](../../Images/sim1.jpg)
+![and_gates](../../Images/sim1.JPG)
 
 ### Full-adder
 
@@ -30,9 +30,9 @@
 
 ![and_gates](../../Images/4-2.png)
 
-![and_gates](../../Images/sim2.jpg)
+![and_gates](../../Images/sim2.JPG)
 
 ### Schematic
 
-![and_gates](../../Images/sch41.jpg)
-![and_gates](../../Images/sch42.jpg)
+![and_gates](../../Images/sch41.JPG)
+![and_gates](../../Images/sch42.JPG)
