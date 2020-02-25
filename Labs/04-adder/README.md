@@ -41,10 +41,10 @@
 
 Half-adder
 
-![and_gates](../../Images/4-1.JPG)
+![and_gates](../../Images/4-1.png)
 
 Full-adder
 
-![and_gates](../../Images/4-2.JPG)
+![and_gates](../../Images/4-2.png)
 
 ![and_gates](../../Images/sim3.JPG)
