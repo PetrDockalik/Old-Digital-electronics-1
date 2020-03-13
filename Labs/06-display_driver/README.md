@@ -5,4 +5,6 @@
 
 ![and_gates](../../Images/wavedrom_7-segment.png)
 
+![and_gates](../../Images/lab6prepar.png)
+
 ## Simulate at home:
