@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/xdocka13/Digital-electronics-1/Labs/06-display_driver/display_driver/top_tb_isim_beh.exe" -prj "D:/xdocka13/Digital-electronics-1/Labs/06-display_driver/display_driver/top_tb_beh.prj" "work.top_tb" 

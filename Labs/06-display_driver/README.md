@@ -8,3 +8,5 @@
 ![and_gates](../../Images/lab6prepar.PNG)
 
 ## Simulate at home:
+
+![and_gates](../../Images/simulate6.PNG)
