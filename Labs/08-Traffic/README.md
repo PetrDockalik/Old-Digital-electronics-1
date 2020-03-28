@@ -10,4 +10,4 @@
 
 # Diagram: 
 
-![and_gates](../../Images/.PNG)
+![and_gates](../../Images/diagram8.jpg)
