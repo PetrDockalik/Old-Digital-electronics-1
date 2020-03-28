@@ -1,0 +1,3 @@
+work	"../../07-stopwatch/stopwatch/clock_enable.vhd"
+work	"top.vhd"
+work	"traffic_controller.vhd"

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/xdocka13/Digital-electronics-1/Labs/08-Traffic/Traffic_lights/top_tb0_isim_beh.exe" -prj "D:/xdocka13/Digital-electronics-1/Labs/08-Traffic/Traffic_lights/top_tb0_beh.prj" "work.top_tb0" 
