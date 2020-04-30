@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/xdocka13/Projekt/keypad/decoder_keys_tb_isim_beh.exe" -prj "D:/xdocka13/Projekt/keypad/decoder_keys_tb_beh.prj" "work.decoder_keys_tb" 
